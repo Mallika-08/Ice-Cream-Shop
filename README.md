@@ -1,4 +1,4 @@
-🍧 # Ice-Cream-Shop 🍦
+🍧 **Ice-Cream-Shop** 🍦
 
 Creating an ice-cream shop with synchronous and asynchronous elements
 This has features like...
